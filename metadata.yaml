@@ -1,0 +1,39 @@
+_repo: Heath-s-French-and-English-dictionary_74672
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: V. Payen-Payne, de (Vinchelés Payen-Payne)
+    aliases:
+    - V. Payen-Payne, de (Vincheles Payen-Payne)
+    - De V. Payen-Payne (Vinchelés Payen-Payne)
+    - Payen-Payne, de V. (Vinchelés Payen-Payne)
+    - Payen-Payne, James Bertrand de Vinchelés
+    - Vinchelés Payen-Payne, de
+    birthdate: 1866
+    deathdate: 1945
+    gutenberg_agent_id: '44632'
+    url: http://www.gutenberg.org/2009/agents/44632
+creator:
+  author:
+    agent_name: Boïelle, James
+    gutenberg_agent_id: '57596'
+    url: http://www.gutenberg.org/2009/agents/57596
+description: ''
+gutenberg_issued: '2024-11-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74672'
+language: en
+pgterms:marc905: 20061119103230bolleba
+pgterms:marc906: '1903'
+pgterms:marc907: US
+production_note: Chuck Greif, DaveKline, Juergen Lohnert and the Online Distributed
+  Proofreading Team at https://www.pgdp.net
+publication_note: '  $aBoston :$bHeath & Co. Publishers, $c1903.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Heath's French and English dictionary
+url: http://www.gutenberg.org/ebooks/74672
