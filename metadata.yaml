@@ -13,12 +13,17 @@ contributor:
     deathdate: 1945
     gutenberg_agent_id: '44632'
     url: http://www.gutenberg.org/2009/agents/44632
+covers:
+- cover_type: archival
+  image_path: 74672-h/images/cover.jpg
 creator:
   author:
     agent_name: Boïelle, James
     gutenberg_agent_id: '57596'
     url: http://www.gutenberg.org/2009/agents/57596
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74672#Heath-s-French-and-English-dictionary
 gutenberg_issued: '2024-11-03'
 gutenberg_type: Text
 identifiers:
